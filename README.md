@@ -1,5 +1,8 @@
 # Cookie-Monster
-a CLI used to identify tracking cookies for Chrome, Firefox, Edge and possibly other browsers down the line. NOTE: this program was developed for my own use and to increase awareness on Cross Site Cookies, Online Privacy and digital stalking done by Data Brokers. 
+Cookie Monster is a Command-Line Interface (CLI) built in Python that can be used to identify tracking cookies for Chrome, Firefox, Edge and possibly other browsers down the line. Once I have developed a rudimentary proof of concept, I will create an interactive terminal for the program and if I don't get lazy maybe a 100% offline GUI. For your own privacy and security, read all documentation and excercise caution when examining the contents of your cookies.  
+
+# NOTE: 
+this program was developed for my own use and to increase awareness on Cross Site Cookies, Online Privacy and digital stalking done by Data Brokers. 
 
 # Legal Disclaimer
 
